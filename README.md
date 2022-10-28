@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poornaprajnad666
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Android Development in Cotline
+- 🌱 I’m currently preparing to work on AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through Linkdin-  https://www.linkedin.com/in/poorna-prajna-d-26b6091b3/
 
