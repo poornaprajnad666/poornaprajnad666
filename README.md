@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @poornaprajnad666
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently preparing to work on AI
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @poorna
+- 👀 I’m interested in Fullstack Web Development 
+- 🌱 I’m currently working on Node.js
+- 💞️ I’m looking to collaborate on Angular projects
 - 📫 How to reach me, through Linkdin-  https://www.linkedin.com/in/poorna-prajna-d-26b6091b3/
 
 <!---
