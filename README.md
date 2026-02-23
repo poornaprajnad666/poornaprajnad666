@@ -20,8 +20,7 @@ I specialize in building scalable Angular applications, designing clean UI archi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="26"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="26"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="26"/>
-  <img src="https://raw.githubusercontent.com/ReactiveX/rxjs/master/docs_app/assets/RxJS_Logo.png" alt="RxJS" width="26"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS" width="25"/></p>
 
 - **Angular (Standalone Architecture)**
 - Signals & Effects
