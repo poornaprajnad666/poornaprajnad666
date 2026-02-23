@@ -58,9 +58,9 @@ I specialize in building scalable Angular applications, designing clean UI archi
 ### 📊 Data Handling & UI Libraries
 
 <!-- AG Grid Icon (official not available as SVG); using emoji + text fallback -->
-<p>
-  <img src="https://www.ag-grid.com/favicon.ico" alt="AG Grid" width="22"/> <b>AG Grid</b>
-</p>
+<!-- <p>
+  <img src="https://img.shields.io/badge/AG_Grid-0170FE?style=for-the-badge&logo=ag-grid&logoColor=white" />
+</p> -->
 
 - AG Grid  
     - Dynamic column definitions  
@@ -85,8 +85,7 @@ I specialize in building scalable Angular applications, designing clean UI archi
 <!-- REST API Icon: Using HTTP emoji + text fallback; Spring Boot icon from Devicon -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="26"/>
-  <span style="font-size:20px;">🌐 REST API</span>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" width="40" height="26"/></p>
 
 - REST API integration
 - Standardized response handling
@@ -99,7 +98,7 @@ I specialize in building scalable Angular applications, designing clean UI archi
 
 <!-- AWS icon -->
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="28"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="26"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="26"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="26"/>
